@@ -33,6 +33,9 @@ class App extends Component {
     .then(recipes => {
       this.setState({recipes: recipes.results})
       //console.log(this.state.recipes)
+      if(Object.keys(recipes.results).length === 0){
+        alert("No recipes found");
+      }
     })
   }
 
