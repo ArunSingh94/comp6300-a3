@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/comp6300-a3/static/css/main.626cbcf1.chunk.css",
+    "main.js": "/comp6300-a3/static/js/main.adf6dcd6.chunk.js",
+    "main.js.map": "/comp6300-a3/static/js/main.adf6dcd6.chunk.js.map",
+    "runtime-main.js": "/comp6300-a3/static/js/runtime-main.f9339d17.js",
+    "runtime-main.js.map": "/comp6300-a3/static/js/runtime-main.f9339d17.js.map",
+    "static/js/2.7aeed868.chunk.js": "/comp6300-a3/static/js/2.7aeed868.chunk.js",
+    "static/js/2.7aeed868.chunk.js.map": "/comp6300-a3/static/js/2.7aeed868.chunk.js.map",
+    "static/js/3.e213d1bf.chunk.js": "/comp6300-a3/static/js/3.e213d1bf.chunk.js",
+    "static/js/3.e213d1bf.chunk.js.map": "/comp6300-a3/static/js/3.e213d1bf.chunk.js.map",
+    "index.html": "/comp6300-a3/index.html",
+    "static/css/main.626cbcf1.chunk.css.map": "/comp6300-a3/static/css/main.626cbcf1.chunk.css.map",
+    "static/js/2.7aeed868.chunk.js.LICENSE.txt": "/comp6300-a3/static/js/2.7aeed868.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9339d17.js",
+    "static/js/2.7aeed868.chunk.js",
+    "static/css/main.626cbcf1.chunk.css",
+    "static/js/main.adf6dcd6.chunk.js"
+  ]
+}
