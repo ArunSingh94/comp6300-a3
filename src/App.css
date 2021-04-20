@@ -2,6 +2,13 @@
   text-align: center;
 }
 
+h1{
+  font-family: 'Dancing Script';
+  font-size: 100px;
+  color: #1c7406;
+  margin-bottom: 8px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
